@@ -24,8 +24,8 @@ return {
   visual_select_bg = "#3d2735",
 
   red        = "#eb71a5",
-  green      = "#a471eb",
-  blue       = "#71aaeb",
+  green      = "#8ac5ed",
+  blue       = "#b189e8",
   orange     = "#75eb71",
   pink       = "#eb7171",
   yellow     = "#71ebc4",
